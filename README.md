@@ -1,0 +1,1 @@
+# rails_mongo_bootstrap_example
